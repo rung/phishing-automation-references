@@ -3,8 +3,10 @@
 - **The slide is not published**
 
 ## Overview
-"Phishing Detection and Automation For Customers"では、下記について話す予定である。
 弊社のログインページを模したWebサイトを作成し、お客さまのクレデンシャルなどを盗むことを目的としたフィッシングサイトについて、検知手段をProactiveな手段とReactiveな手段に分けた上で、我々がどのように検知→自動調査→対応までの自動化を開発しているのか、他のチームとの協働なども含めて紹介する。
+
+To defeat Phishing Website spoofing Mercari, we classify detection technics as "Proactive Detection" and "Reactive Detection". And I would like to introduce how we automate the process of "Detection", "Evaluation," and "Response".
+
 
 ## References
 - A Oest (2020) “[Sunrise to Sunset: Analyzing the End-to-end Life Cycle and Effectiveness of Phishing Attacks at Scale](https://www.usenix.org/conference/usenixsecurity20/presentation/oest-sunrise)” USENIX Security '20

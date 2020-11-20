@@ -5,7 +5,7 @@
 ## Overview
 弊社のログインページを模したWebサイトを作成し、お客さまのクレデンシャルなどを盗むことを目的としたフィッシングサイトについて、検知手段をProactiveな手段とReactiveな手段に分けた上で、我々がどのように検知→自動調査→対応までの自動化を開発しているのか、他のチームとの協働なども含めて紹介する。
 
-To defeat Phishing Website spoofing Mercari, we classify detection technics as "Proactive Detection" and "Reactive Detection". And I would like to introduce how we automate the process of "Detection", "Evaluation," and "Response".
+To defeat Phishing Website spoofing Mercari, We classify detection technics as "Proactive Detection" and "Reactive Detection". And I would like to introduce how we automate the process of "Detection", "Evaluation," and "Response".
 
 
 ## References
